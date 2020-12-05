@@ -37,7 +37,7 @@ git remote
 	列出你指定的每一个远程服务器,如果你已经克隆了自己的仓库，那么至少应该能看到 origin ——这是 	Git 给你克隆的仓库服务器的默认名字
 	-v 会显示需要读写远程仓库使用的 Git 保存的简写与其对应的 UR
 	
-git remote add name https://github.com/GeWei-Developer/hello-world
+git remote add name https://github.com/GeWei-Developer.github.io
 	添加一个新的远程 Git 仓库，同时指定一个方便使用的简写
 
 git fetch 简写
